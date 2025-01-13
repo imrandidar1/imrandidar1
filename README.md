@@ -1,6 +1,7 @@
-# 👋 Hi there! I'm [Didar Al Imran]
+# Wellcome to my profile
+I'm [Didar Al Imran]
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen)  
+![Profile Views](https://komarev.com/ghpvc/?username=imrandidar1&color=brightgreen)  
 
 ### 🌟 About Me
 - 🔭 **Currently working on:** [Cofeeta](#)
@@ -20,11 +21,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imrandidar1&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imrandidar1&layout=compact)
-
----
 
 ### 🌐 Connect With Me
 
@@ -32,4 +28,4 @@
 
 ---
 
-*Thanks for visiting my profile! 😊*  
+*Thanks for visiting my profile! *  
