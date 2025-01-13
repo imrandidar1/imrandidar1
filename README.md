@@ -24,7 +24,8 @@ I'm [Didar Al Imran]
 
 ### 🌐 Connect With Me
 
-[![fiveer]](https://www.fiverr.com/imrandidar1/buying?source=avatar_menu_profile)  
+[!1.fiveer](https://www.fiverr.com/imrandidar1/buying?source=avatar_menu_profile) 
+[!2.LinkedIn](https://www.linkedin.com/in/didar-al-imran-125564236?trk=contact-info)
 
 ---
 
